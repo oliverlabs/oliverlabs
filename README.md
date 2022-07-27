@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology and Azure
 - 🌱 I’m currently learning Chef.
 - 💞️ I’m looking to collaborate on node.js
-- 📫 How to reach me olsbicep
+- 📫 How to reach me: n/a
 
 <!---
 oliverlabs/oliverlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
