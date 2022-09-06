@@ -1,7 +1,14 @@
+# About Me
 - 👋 Hi, I’m Oliver.
-- ☁️ I work with Microsoft Azure Cloud.
-- 👀 I’m interested in Technology.
-- 🌱 I’m currently learning Azure ELZ and Bicep.
+- ☁️ I am a Senior Cloud Solution Architect at Microsoft.
+- 👀 I specialise in Microsoft Azure core infrastructure (compute, networking, storage) as well as PaaS services, but I am also knowledgeable in DevOps (GitHub and Azure DevOps), Modern Workplace, Cybersecurity, Enterprise Administration, and Power Platform. 
+- 🌱 I am a big proponent of Infrastructure as Code and Agile ways of working.
+- :octocat: I am a collaborator on Microsoft Learn (Docs) and Microsoft CAF/WAF frameworks.
+
+# Contact
+- [LinkedIn](https://www.linkedin.com/in/oliver-gulich/)
+- [Twitter](https://twitter.com/mattsonster)
+
 
 <!---
 oliverlabs/oliverlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
