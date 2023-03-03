@@ -1,9 +1,9 @@
 # About Me
 - 👋 Hi, I’m Oliver.
 - ☁️ I am a Senior Cloud Solution Architect at Microsoft.
-- 👀 I specialise in Microsoft Azure core infrastructure (compute, networking, storage) as well as PaaS services, but I am also knowledgeable in DevOps (GitHub and Azure DevOps), Modern Workplace, Cybersecurity, Enterprise Administration, and Power Platform. I frequently dabble in App Innovation space, especially in Kubernetes (AKS).
-- 🌱 I am a big proponent of Infrastructure as Code or Everything as Code and Agile ways of working.
-- :octocat: I am a collaborator on Microsoft Learn (Docs) and Microsoft CAF/WAF frameworks.
+- 👀 I specialise in Microsoft Azure core infrastructure (compute, networking, storage) as well as PaaS services. I often lean towards App Innovation and Cloud Native approach to application development. I also know a thing or two about DevOps (GitHub Actions and Azure DevOps), Modern Workplace, Cybersecurity, Enterprise Administration, and Power Platform. I frequently dabble in App Innovation space, especially in Kubernetes (AKS).
+- 🌱 I am a big proponent of Infrastructure as Code (Bicep) or Everything as Code, as well as Agile ways of working.
+- :octocat: I sometimes contribute to Microsoft Learn (Docs) and Microsoft CAF/WAF frameworks.
 
 # My GitHub Gists
 - [Gists](https://gist.github.com/oliverlabs)
