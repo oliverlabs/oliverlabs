@@ -12,6 +12,8 @@
 - [LinkedIn](https://www.linkedin.com/in/oliver-gulich/)
 - [Twitter](https://twitter.com/mattsonster)
 
+# My GitHub Stats
+[![oliverlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverlabs&show_icons=true&theme=radical)](https://github.com/oliverlabs)
 
 <!---
 oliverlabs/oliverlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
