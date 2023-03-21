@@ -13,7 +13,8 @@
 - [Twitter](https://twitter.com/mattsonster)
 
 # My GitHub Stats
-[![oliverlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverlabs&show_icons=true&theme=radical)](https://github.com/oliverlabs)
+![oliverlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverlabs&show_icons=true&theme=radical)
+
 
 <!---
 oliverlabs/oliverlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
