@@ -15,11 +15,11 @@
 # My GitHub Gists
 - [Gists](https://gist.github.com/oliverlabs)
 
-# Contact
+# 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/oliver-gulich/)
 - [Twitter](https://twitter.com/mattsonster)
 
-# My GitHub Stats
+# 📊 My GitHub Stats
 ![oliverlabs GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverlabs&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en)
 ![oliverlabs commit count](https://github-readme-streak-stats.herokuapp.com/?user=oliverlabs&count_private=true&theme=chartreuse-dark)
 
