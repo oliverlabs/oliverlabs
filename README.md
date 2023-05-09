@@ -17,7 +17,7 @@
 - [Oliverlabs Gists](https://gist.github.com/oliverlabs)
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/oliver-gulich/)
+- [LinkedIn](https://www.linkedin.com/in/olivergulich/)
 - [Twitter](https://twitter.com/mattsonster)
 
 ## 📊 My GitHub Stats
