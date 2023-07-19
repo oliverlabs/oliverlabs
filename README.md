@@ -12,6 +12,7 @@
   - [CARML (Azure/ResourceModules)](https://github.com/Azure/ResourceModules)
   - [Azure Mission Critical](https://github.com/Azure/Mission-Critical-Online)
   - [Azure Container Apps Landing Zone Accelerator](https://github.com/Azure/aca-landing-zone-accelerator)
+  - [Hashicorp Packer Plugin Azure](https://github.com/hashicorp/packer-plugin-azure)
 
 ## 📎 My GitHub Gists
 - [Oliverlabs Gists](https://gist.github.com/oliverlabs)
