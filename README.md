@@ -33,7 +33,7 @@
 
 
 ## GitHub Certification
-[![GitHub Administrator](https://images.credly.com/size/340x340/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png)](https://www.credly.com/badges/621efe47-12ce-49fb-b5ab-3f307dc97411)
+[![GitHub Administrator](https://images.credly.com/size/170x170/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png)](https://www.credly.com/badges/621efe47-12ce-49fb-b5ab-3f307dc97411)
 
 <!---
 oliverlabs/oliverlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
