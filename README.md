@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Oliver.
-- I am a Senior Cloud Solution Architect at Microsoft, where I help customers realise the full potential of Azure cloud platform and services. 
-- I specialise in core infrastructure (compute, networking, storage) as well as PaaS services. 
-- I am passionate about contributing to Open Source projects and IaC.
-- You can ask me about Bicep, AKS, and Azure Landing Zones.
+- I am a Senior Technology Specialist at Microsoft, where I help customers realise the full potential of Azure cloud platform and services. 
+- I specialise in core infrastructure (compute, networking, storage) as well as PaaS services. Specifically, I help customer migrate their workloads to the cloud using the 6R framefork.
+- I am passionate about contributing to open source projects, automation, DevOps, AI, cloud native architecture, and Infrastructure as Code.
+- You can ask me about Bicep, Azure OpenAI, AKS, and Azure Landing Zones.
 
 ## 💪 I am a contributor to the following projects:
 
@@ -32,8 +32,11 @@
 ![oliverlabs commit count](https://github-readme-streak-stats.herokuapp.com/?user=oliverlabs&count_private=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverlabs&hide=css,html&layout=compact&theme=tokyonight)
 
+## Credentials and Certifications
+- [Credly Profile](https://www.credly.com/users/oliver-gulich/badges)
+- [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/olivergulich/)
 
-## GitHub Certification
+### GitHub Certification
 [![GitHub Administrator](https://images.credly.com/size/170x170/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png)](https://www.credly.com/badges/621efe47-12ce-49fb-b5ab-3f307dc97411)
 
 <!---
