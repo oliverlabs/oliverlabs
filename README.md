@@ -32,7 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverlabs&hide=css,html&layout=compact&theme=tokyonight)
 
 ## Credentials and Certifications
-- [Credly Profile](https://www.credly.com/users/oliver-gulich/badges)
+- [Credly Profile](https://www.credly.com/users/olivergulich/badges)
 - [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/olivergulich/)
 
 ### GitHub Certification
