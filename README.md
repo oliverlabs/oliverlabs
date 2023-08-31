@@ -23,7 +23,7 @@
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/olivergulich/)
-- [Twitter](https://twitter.com/mattsonster)
+- [X](https://x.com/mattsonster)
 
 ## 📊 My GitHub Stats
 ![GitHub User's stars](https://img.shields.io/github/stars/oliverlabs?affiliations=OWNER%2CCOLLABORATOR&label=Owner%20%2B%20Collaborator%20Stars&logo=GitHub&style=for-the-badge&labelColor=343b41) [![Hits Since 2022-10-26](https://hits.sh/github.com/oliverlabs/hits.svg&style=for-the-badge.svg?view=today-total&style=for-the-badge)](https://hits.sh/github.com/oliverlabs/hits.svg&style=for-the-badge/)
