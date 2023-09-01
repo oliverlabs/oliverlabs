@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Oliver.
-- I am a Senior Technology Specialist at Microsoft, where I help customers realise the full potential of Azure cloud platform and services. 
-- I specialise in core infrastructure (compute, networking, storage) as well as PaaS services. Specifically, I help customer migrate their workloads to the cloud using the 6R framefork.
-- I am passionate about contributing to open source projects, automation, DevOps, AI, cloud native architecture, and Infrastructure as Code.
-- You can ask me about Bicep, Azure OpenAI, AKS, and Azure Landing Zones.
+- 🛠 I am a Senior Technology Specialist at Microsoft, where I help customers realise the full potential of Azure cloud platform and services. 
+- 👩‍💻 I specialise in Azure infrastructure (compute, networking, storage) as well as PaaS services. Specifically, I help customer migrate their workloads to the cloud using the [6R framefork](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/5-rs-of-rationalization).
+- ✨ I am passionate about contributing to open source projects, automation, DevOps, AI, cloud native architecture, and Infrastructure as Code.
+- 📢 You can ask me about Bicep, Azure OpenAI, AKS, and Azure Landing Zones.
 - 🎧 When I'm not in meetings, I'm listening to music. Here's what I'm currently listening to: <br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mattsonster&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
