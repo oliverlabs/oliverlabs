@@ -39,8 +39,9 @@
 - [Credly Profile](https://www.credly.com/users/olivergulich/badges)
 - [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/olivergulich/)
 
-### GitHub Certification
+### GitHub Certifications
 [![GitHub Administrator](https://images.credly.com/size/170x170/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png)](https://www.credly.com/badges/621efe47-12ce-49fb-b5ab-3f307dc97411)
+[![GitHub Foundations](https://images.credly.com/size/170x170/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/earner/earned/badge/ebbccadd-8cf7-420b-9ffa-61536dca6a51)
 
 <!---
 oliverlabs/oliverlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
