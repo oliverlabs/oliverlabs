@@ -21,15 +21,16 @@
 [Azure Container Apps Landing Zone Accelerator](https://github.com/Azure/aca-landing-zone-accelerator) | Contributor | ![](https://img.shields.io/github/stars/Azure/aca-landing-zone-accelerator?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/Azure/aca-landing-zone-accelerator?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/issues/Azure/aca-landing-zone-accelerator?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/issues-pr/Azure/aca-landing-zone-accelerator?style=flat-square&labelColor=343b41)
 [Hashicorp Packer Plugin Azure](https://github.com/hashicorp/packer-plugin-azure) | Contributor | ![](https://img.shields.io/github/stars/hashicorp/packer-plugin-azure?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/hashicorp/packer-plugin-azure?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/issues/hashicorp/packer-plugin-azure?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/issues-pr/hashicorp/packer-plugin-azure?style=flat-square&labelColor=343b41)
 
-## 📎 My GitHub Gists
+## 📎 GitHub Gists
 - [Oliverlabs Gists](https://gist.github.com/oliverlabs)
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/olivergulich/)
 - [X](https://x.com/mattsonster)
 
-## 📊 My GitHub Stats
-![GitHub User's stars](https://img.shields.io/github/stars/oliverlabs?affiliations=OWNER%2CCOLLABORATOR&label=Owner%20%2B%20Collaborator%20Stars&logo=GitHub&style=for-the-badge&labelColor=343b41) [![Hits Since 2022-10-26](https://hits.sh/github.com/oliverlabs/hits.svg&style=for-the-badge.svg?view=today-total&style=for-the-badge)](https://hits.sh/github.com/oliverlabs/hits.svg&style=for-the-badge/)
+## 📊 GitHub Stats
+![GitHub User's stars](https://img.shields.io/github/stars/oliverlabs?affiliations=OWNER%2CCOLLABORATOR&label=Owner%20%2B%20Collaborator%20Stars&logo=GitHub&style=for-the-badge&labelColor=343b41) 
+[![Hits Since 2022-10-26](https://hits.sh/github.com/oliverlabs/hits.svg&style=for-the-badge.svg?view=today-total&style=for-the-badge)](https://hits.sh/github.com/oliverlabs/hits.svg&style=for-the-badge/)
 
 ![oliverlabs GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverlabs&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en)
 ![oliverlabs commit count](https://github-readme-streak-stats.herokuapp.com/?user=oliverlabs&count_private=true&theme=chartreuse-dark)
