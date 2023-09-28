@@ -42,7 +42,9 @@
 
 ### GitHub Certifications
 [![GitHub Administrator](https://images.credly.com/size/170x170/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png)](https://www.credly.com/badges/621efe47-12ce-49fb-b5ab-3f307dc97411)
+[![GitHub Actions](https://images.credly.com/size/170x170/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](https://www.credly.com/badges/3d87f4e8-15c6-4f74-9c1f-856ede00c1e6)
 [![GitHub Foundations](https://images.credly.com/size/170x170/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/earner/earned/badge/ebbccadd-8cf7-420b-9ffa-61536dca6a51)
+
 
 <!---
 oliverlabs/oliverlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
