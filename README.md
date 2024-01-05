@@ -27,6 +27,7 @@
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/olivergulich/)
 - [X](https://x.com/mattsonster)
+- [Blog](https://oliverlabs.co.uk)
 
 ## 📊 GitHub Stats
 ![GitHub User's stars](https://img.shields.io/github/stars/oliverlabs?affiliations=OWNER%2CCOLLABORATOR&label=Owner%20%2B%20Collaborator%20Stars&logo=GitHub&style=for-the-badge&labelColor=343b41) 
