@@ -30,9 +30,15 @@
 - [Oliverlabs Gists](https://gist.github.com/oliverlabs) - Code snippets and useful scripts
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/olivergulich/)
-- [X](https://x.com/mattsonster)
-- [Blog](https://oliverlabs.co.uk)
+
+<a href="https://www.linkedin.com/in/olivergulich/">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/mattsonster">
+    <img alt="X (Twitter)" title="Follow me on X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://oliverlabs.co.uk">
+    <img alt="Blog" title="Visit my blog" src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white"/></a>
+<a href="https://github.com/oliverlabs?tab=followers">
+    <img alt="GitHub Follow" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/oliverlabs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 ## 📊 GitHub Stats
 ![GitHub User's stars](https://img.shields.io/github/stars/oliverlabs?affiliations=OWNER%2CCOLLABORATOR&label=Owner%20%2B%20Collaborator%20Stars&logo=GitHub&style=for-the-badge&labelColor=343b41) 
@@ -45,8 +51,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverlabs&hide=css,html&layout=compact&theme=tokyonight&border_radius=10)
 
 ## Credentials and Certifications
-- 🏅 [Credly Profile](https://www.credly.com/users/olivergulich/badges)
-- 📚 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/olivergulich/)
+
+<a href="https://www.credly.com/users/olivergulich/badges">
+    <img alt="Credly Profile" title="View my Credly badges" src="https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/en-us/users/olivergulich/">
+    <img alt="Microsoft Learn" title="View my Microsoft Learn profile" src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 
 ### 🐙 GitHub Certifications
 <a href="https://www.credly.com/badges/621efe47-12ce-49fb-b5ab-3f307dc97411"><img src="https://images.credly.com/size/170x170/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" align="left" height="170" width="170" ></a>
@@ -55,11 +64,6 @@
 <a href="https://www.credly.com/earner/earned/badge/ebbccadd-8cf7-420b-9ffa-61536dca6a51"><img src="https://images.credly.com/size/170x170/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="left" height="170" width="170" ></a>
 
 <br clear="left"/>
-
-## 👥 Follow Me on GitHub
-
-<a href="https://github.com/marlenezw?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/oliverlabs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 ---
 
