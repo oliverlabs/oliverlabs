@@ -54,7 +54,16 @@
 <a href="https://www.credly.com/badges/3d87f4e8-15c6-4f74-9c1f-856ede00c1e6"><img src="https://images.credly.com/size/170x170/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" align="left" height="170" width="170" ></a>
 <a href="https://www.credly.com/earner/earned/badge/ebbccadd-8cf7-420b-9ffa-61536dca6a51"><img src="https://images.credly.com/size/170x170/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="left" height="170" width="170" ></a>
 
+<br clear="left"/>
+
+## 👥 Follow Me on GitHub
+
+<a href="https://github.com/marlenezw?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/oliverlabs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+---
+
 <!---
-oliverlabs/oliverlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+oliverlabs/oliverlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your changes.
 You can click the Preview link to take a look at your changes.
 --->
