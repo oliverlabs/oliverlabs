@@ -58,6 +58,7 @@
     <img alt="Microsoft Learn" title="View my Microsoft Learn profile" src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 
 ### 🐙 GitHub Certifications
+<a href="https://learn.microsoft.com/en-gb/users/olivergulich/credentials/certification/github-copilot?tab=credentials-tab"><img src="https://images.credly.com/size/680x680/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" align="left" height="170" width="170" ></a>
 <a href="https://www.credly.com/badges/621efe47-12ce-49fb-b5ab-3f307dc97411"><img src="https://images.credly.com/size/170x170/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" align="left" height="170" width="170" ></a>
 <a href="https://www.credly.com/earner/earned/badge/c2320b22-a218-4074-aa63-20e4c36a6c59"><img src="https://images.credly.com/size/170x170/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" align="left" height="170" width="170" ></a>
 <a href="https://www.credly.com/badges/3d87f4e8-15c6-4f74-9c1f-856ede00c1e6"><img src="https://images.credly.com/size/170x170/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" align="left" height="170" width="170" ></a>
